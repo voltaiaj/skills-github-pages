@@ -1,3 +1,3 @@
+# Welcome to my Blog
 ---
-title: Welcome to my blog!
----
+- Demonstrate skills
